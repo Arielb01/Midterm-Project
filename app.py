@@ -68,4 +68,4 @@ st.pyplot(fig4)
 
 # Footer
 st.markdown("---")
-st.markdown("Developed by [Your Name] | Dataset: ElectricCarData_Clean.csv")
+st.markdown("Developed by [Ariel Ben Moshe] | Dataset: ElectricCarData_Clean.csv")
